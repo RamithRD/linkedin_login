@@ -6,7 +6,7 @@ repository: https://github.com/d3xt3r2909/linkedin_login
 documentation:
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ">=3.3.0 <4.0.0"
   flutter: ">=1.24.0-6.0.pre"
 
 dependencies:
@@ -15,7 +15,7 @@ dependencies:
   http: ^1.1.0
   meta: ^1.9.1
   rxdart: ^0.27.7
-  uuid: ^3.0.7
+  uuid: ^4.2.1
   webview_flutter: ^4.2.2
   webview_flutter_android: ^3.9.2
   webview_flutter_wkwebview: ^3.7.2
